@@ -7,7 +7,7 @@ import About from './pages/About';
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter>
       <Switch>
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
