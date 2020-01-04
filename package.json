@@ -16,6 +16,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0"
   },
+  "homepage": "https://test-deploy-om1.netlify.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
